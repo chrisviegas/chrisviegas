@@ -60,7 +60,7 @@ My development approach is root-cause oriented: when a problem arises, I seek to
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="LangGraph" title="LangGraph" width="40px" style="padding: 5px;"/>
 </picture>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
