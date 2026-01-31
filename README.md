@@ -62,12 +62,8 @@ My development approach is root-cause oriented: when a problem arises, I seek to
 
 <br/><br/>
 
-<div align="center">
-
 ### 📊 Statistics
 
-<img alt="GitHub Stats" height="180" src="https://github-readme-stats-chrisviegas-projects.vercel.app/api?username=chrisviegas&show_icons=true&theme=tokyonight&hide_border=true&v=final" />
+![GitHub Stats](https://github-readme-stats-chrisviegas-projects.vercel.app/api?username=chrisviegas&show_icons=true&theme=tokyonight&hide_border=true&date=20260131)
 
-<img alt="Technologies" height="180" src="https://github-readme-stats-chrisviegas-projects.vercel.app/api/top-langs?username=chrisviegas&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Technologies&hide=mako&v=final" />
-
-</div>
+![Top Langs](https://github-readme-stats-chrisviegas-projects.vercel.app/api/top-langs?username=chrisviegas&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Technologies&hide=mako&date=20260131)
