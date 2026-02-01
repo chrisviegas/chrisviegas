@@ -8,14 +8,14 @@
     <img
         alt="stars"
         title="Total of stars on GitHub"
-        src="https://custom-icon-badges.demolab.com/github/stars/chrisviegas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+        src="https://custom-icon-badges.demolab.com/github/stars/chrisviegas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars&cache=0"
     />
 </a>
 <a href="https://github.com/chrisviegas?tab=followers">
     <img
         alt="Followers"
         title="Follow me on GitHub"
-        src="https://custom-icon-badges.demolab.com/github/followers/chrisviegas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/github/followers/chrisviegas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&cache=0"
     />
 </a>
 <a href="https://www.linkedin.com/in/christianviegas">
@@ -66,8 +66,8 @@ My development approach is root-cause oriented: when a problem arises, I seek to
 
 ### 📊 Statistics
 
-<img alt="GitHub Stats" height="180" src="https://github-readme-stats-chrisviegas-projects.vercel.app/api?username=chrisviegas&show_icons=true&theme=tokyonight&hide_border=true&v=final" />
+<img alt="GitHub Stats" height="180" src="https://github-readme-stats-chrisviegas-projects.vercel.app/api?username=chrisviegas&show_icons=true&theme=tokyonight&hide_border=true&v=final&cache_bust=0" />
 
-<img alt="Technologies" height="180" src="https://github-readme-stats-chrisviegas-projects.vercel.app/api/top-langs?username=chrisviegas&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Technologies&hide=mako&v=final" />
+<img alt="Technologies" height="180" src="https://github-readme-stats-chrisviegas-projects.vercel.app/api/top-langs?username=chrisviegas&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Technologies&hide=mako&v=final&cache_bust=0" />
 
 </div>
